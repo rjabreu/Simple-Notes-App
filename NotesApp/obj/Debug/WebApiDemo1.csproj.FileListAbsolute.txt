@@ -1,0 +1,74 @@
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\csc.exe
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\vbc.exe
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\VBCSCompiler.exe
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\WebApiDemo1.dll.config
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\WebApiDemo1.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\WebApiDemo1.pdb
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\Newtonsoft.Json.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\System.Net.Http.Formatting.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.WebHost.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\Newtonsoft.Json.xml
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\System.Net.Http.Formatting.xml
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.xml
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.WebHost.xml
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\obj\Debug\WebApiDemo1.csprojResolveAssemblyReference.cache
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\obj\Debug\WebApiDemo1.dll
+c:\users\ricardo.abreu\documents\visual studio 2015\Projects\WebApiDemo1\WebApiDemo1\obj\Debug\WebApiDemo1.pdb
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\csc.exe
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\vbc.exe
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\VBCSCompiler.exe
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\WebApiDemo1.dll.config
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\WebApiDemo1.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\WebApiDemo1.pdb
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Antlr3.Runtime.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Newtonsoft.Json.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Net.Http.Formatting.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Helpers.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.WebHost.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Mvc.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Optimization.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Razor.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.WebPages.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.WebPages.Razor.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\WebGrease.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Antlr3.Runtime.pdb
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Helpers.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Mvc.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Optimization.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Razor.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.WebPages.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.WebPages.Razor.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\Newtonsoft.Json.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Net.Http.Formatting.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\bin\System.Web.Http.WebHost.xml
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\obj\Debug\WebApiDemo1.dll
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\obj\Debug\WebApiDemo1.pdb
+C:\Users\rjabr\Desktop\WebApiDemo1\WebApiDemo1\obj\Debug\WebApiDemo1.csprojResolveAssemblyReference.cache

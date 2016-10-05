@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <title>Notes App</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Create notes</a></li>
+            <li><a href="my-notes.html">My notes</a></li>
+        </ul>
+    </nav>
+    <div class="flex-container">
+        <div class="app-container">
+            <h2>My Notes</h2>
+            
+            <div class="field-wrapper">
+                <label for="title">Note Id</label>
+                <input class="input-field text-field" type="text" id="note-id" placeholder="Note Id" />
+            </div>
+            <div class="field-wrapper">
+                <label for="title">Password</label>
+                <input class="input-field text-field" type="password" id="password" placeholder="Password" />
+            </div>
+            <input id="button-find" type="button" value="Find note" />
+
+            <div id="note-details">
+                <span>Title - </span><span class="note-title"></span><br />
+                <span>ID - </span><span class="note-id"></span><br />
+                <span>Content: </span><p class="note-content"></p>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/main.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+</body>
+</html>

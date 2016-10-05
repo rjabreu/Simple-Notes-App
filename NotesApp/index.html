@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="css/main.css"/>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <title>Notes App</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Create notes</a></li>
+            <li><a href="my-notes.html">My notes</a></li>
+        </ul>
+    </nav>
+    <div class="flex-container">
+        <div class="app-container">
+            <h2>Create a new note</h2>
+            <div class="field-wrapper">
+                <label for="title">Title</label>
+                <input class="input-field text-field" type="text" id="title" placeholder="My new note" />
+            </div>
+            <div class="field-wrapper">
+                <label for="note">Note</label>
+                <textarea name="note" id="content" rows="10" cols="50" placeholder="Add an idea, memo or a recipe for a delicious meal."></textarea>
+            </div>
+            <div class="field-wrapper">
+                <label for="password">Password</label>
+                <input class="text-field" type="password" id="password" size="5" />
+            </div>
+            <input id="button-save" type="button" value="Save" />
+            <p id="message"></p>
+        </div>
+    </div>
+    
+
+
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/main.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+</body>
+</html>

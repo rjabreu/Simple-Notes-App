@@ -1,0 +1,35 @@
+﻿.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.app-container {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    height: 440px;
+    width:50%;
+}
+
+.field-wrapper {
+    display:flex;
+    flex-flow:column;
+}
+
+.field-wrapper input {
+    width: 18em;
+}
+
+nav ul li {    
+    display: inline;
+    list-style:none;
+     padding-right:2em;
+}
+
+nav{
+    margin-top:2em;
+}
+
